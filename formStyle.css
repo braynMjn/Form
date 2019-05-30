@@ -2,7 +2,7 @@ body{
     margin-top: 20px;
     margin-left: 325px;
     margin-right: 325px;
-    background: url(army.JPG);
+    background: url('./army.JPG');
     color:rgb(255, 255, 255);
     font-size: 21px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
